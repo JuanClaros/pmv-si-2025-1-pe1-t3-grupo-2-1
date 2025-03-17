@@ -32,11 +32,8 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+A gestão de acervos e coleções pessoais é um desafio para pessoas comuns, pesquisadores e colecionadores. Muitos recorrem a soluções improvisadas, como planilhas ou anotações manuais, que podem ser ineficazes para organizar, catalogar e recuperar informações de forma eficiente. Com o avanço da tecnologia, surge a oportunidade de criar uma solução digital que atenda a essa necessidade de maneira intuitiva e acessível. A criação desta aplicação se justifica pela demanda crescente por soluções digitais que auxiliem na gestão eficiente de acervos e coleções. Muitos possíveis usuários não possuem conhecimentos avançados em tecnologia e precisam de uma ferramenta acessível e fácil de usar.
 
-Lembre-se de pesquisar e utilizar números que justifiquem por que é importante que tal problema seja resolvido ou que mostrem o impacto do problema na vida das pessoas.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
