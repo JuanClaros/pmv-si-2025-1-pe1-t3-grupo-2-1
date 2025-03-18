@@ -32,6 +32,20 @@ Persona 5: Anderson, 40 anos - O Estudioso
  
 • Necessidade: Um sistema simples e intuitivo para organizar seu acervo, ajudando a classificar e facilitar a consulta na hora necessária. 
 
+Persona 6 : Ana Silva - A Colecionadora Detalhista
+ - Idade: 35 anos
+ - Profissão: Arquiteta
+ - Interesses: Miniaturas de carros antigos, história automotiva, comunidades de colecionadores.
+ - Desafios: Organizar e catalogar informações detalhadas de sua coleção, acompanhar lançamentos e conectar-se com outros entusiastas.
+ - Necessidade: Um sistema intuitivo com campos personalizáveis para registrar cada miniatura, permitindo busca avançada e interação com outros colecionadores.
+
+Persona 7: Laura Mendes - A Fã de Cultura Pop
+ - Idade: 28 anos
+ - Profissão: Designer Gráfica
+ - Interesses: Quadrinhos, mangás, action figures, filmes e séries de fantasia e ficção científica.
+ - Desafios: Acompanhar lançamentos, organizar sua coleção por universo e personagem, e encontrar itens raros ou exclusivos.
+ - Necessidade: Um sistema com catálogo visual atraente, filtros por universo e personagem, e alertas para lançamentos e itens raros.
+
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
 > **Links Úteis**:
