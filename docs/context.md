@@ -1,8 +1,10 @@
 # Introdução
 
-Pessoas de todas as idades acabam formando acervos pessoais em casa ou local de trabalho que podem precisar de alguma organização ou registro que facilite seu uso, exemplo uma coleção de bonecos de ação, livros, cards colecionáveis, dvds ou qualquer item em boa quantidade que seja difícil lembrar de todos, Nossa proposta é solucionar esta dor de forma, acessível, simples e eficaz.
-Nosso projeto se baseia nessa dor, em trazer a tecnologia para nos auxiliar nesta organização. as vezes, você emprestou algo do seu acervo, e nao se lembra pra quem, nossa proposta é ter uma área de empréstimo, para você escrever a data e a quem. Ou então, ter um acervo grande e não saber se aquele objeto novo já foi adquirido. 
-com isso, queremos agir efetivamente na dor dos colecionadores, donos de grandes acervos pessoais, professores e outros. Queremos possibilitar a organização , quantificação , classificação , e gestão dos seus pertences. 
+Pessoas de todas as idades acumulam acervos pessoais em casa ou no trabalho, seja uma coleção de bonecos de ação, livros, cards colecionáveis, DVDs ou qualquer outro item em grande quantidade. Com o tempo, organizar e gerenciar esses acervos pode se tornar um desafio, dificultando o controle do que já foi adquirido ou emprestado.
+
+Nosso projeto surge para resolver essa necessidade de forma acessível, simples e eficaz, utilizando a tecnologia como aliada na organização. Com nossa solução, será possível registrar e catalogar itens com facilidade, além de contar com uma área específica para controlar empréstimos, permitindo anotar datas e destinatários.
+
+Dessa forma, atendemos colecionadores, professores e qualquer pessoa que precise gerenciar grandes acervos, proporcionando uma organização eficiente, quantificação precisa, classificação inteligente e melhor gestão de seus pertences. 
 
 ## Problema
 Nesse momento você deve apresentar o problema que a sua aplicação deve resolver. No entanto, **não** é a hora de comentar sobre a solução/aplicação.
