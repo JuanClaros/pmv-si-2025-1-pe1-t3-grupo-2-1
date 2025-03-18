@@ -29,7 +29,7 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
 
 ## Justificativa
 
-A gestão de acervos e coleções pessoais é um desafio para pessoas comuns, pesquisadores e colecionadores. Muitos recorrem a soluções improvisadas, como planilhas ou anotações manuais, que podem ser ineficazes para organizar, catalogar e recuperar informações de forma eficiente. Com o avanço da tecnologia, surge a oportunidade de criar uma solução digital que atenda a essa necessidade de maneira intuitiva e acessível. A criação desta aplicação se justifica pela demanda crescente por soluções digitais que auxiliem na gestão eficiente de acervos e coleções. Muitos possíveis usuários não possuem conhecimentos avançados em tecnologia e precisam de uma ferramenta acessível e fácil de usar.
+A gestão de acervos e coleções pessoais representa um desafio significativo para pessoas comuns, pesquisadores e colecionadores. Frequentemente, esses indivíduos recorrem a soluções improvisadas, como planilhas ou anotações manuais, que se mostram ineficazes para organizar, catalogar e recuperar informações de forma eficiente. Com o avanço das tecnologias digitais, surge a oportunidade de desenvolver uma solução que atenda a essa necessidade de maneira intuitiva e acessível. A criação desta aplicação justifica-se pela crescente demanda por ferramentas digitais que auxiliem na gestão eficiente de acervos e coleções, especialmente considerando que muitos potenciais usuários não possuem conhecimentos tecnológicos avançados e necessitam de uma interface simplificada e amigável.
 
 
 > **Links Úteis**:
@@ -37,6 +37,4 @@ A gestão de acervos e coleções pessoais é um desafio para pessoas comuns, pe
 
 ## Público-Alvo
 
-Pessoas de qualquer faixa etária, gênero ou etnia que possuam acesso a internet
-e desejam organizar, gerir, catalogar ou custear seus itens de acervos, sejam eles
-pessoais, acadêmicos ou profissionais.
+O público-alvo abrange pessoas de qualquer faixa etária, gênero ou etnia que possuam acesso à internet e busquem uma solução eficiente para organizar, gerir, catalogar ou avaliar seus itens de acervos, sejam eles de natureza pessoal, acadêmica ou profissional. Esta ferramenta atende tanto colecionadores amadores quanto profissionais que necessitam de um sistema confiável para administrar suas coleções.
