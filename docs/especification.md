@@ -8,7 +8,29 @@ Caso deseje atribuir uma imagem a sua persona, utilize o site https://thisperson
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+Persona 4 Wellington , 47 anos - O Colecionador
+ 
+• Idade:47 anos
+ 
+• Profissão: Vendedor
+ 
+• Interesses: DVDs de filmes clássicos, Musicais, e Documentários
+ 
+• Desafios: sabe que tem, porém, não sabe onde, ou se está emprestado.
+ 
+• Necessidade: Um sistema simples e intuitivo para consultar sua coleção, ajudando organizar, catalogar e quantifica-la. 
+
+Persona 5: Anderson, 40 anos - O Estudioso
+ 
+• Idade:40 anos
+ 
+• Profissão: Professor Universitário 
+ 
+• Interesses: Livros Antigos, Mapas e Réplicas de Documentos históricos.
+ 
+• Desafios: dificuldade de achar um conteúdo específico rapidamente para consulta ou demonstração em suas aulas. 
+ 
+• Necessidade: Um sistema simples e intuitivo para organizar seu acervo, ajudando a classificar e facilitar a consulta na hora necessária. 
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
