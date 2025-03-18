@@ -9,7 +9,6 @@ Caso deseje atribuir uma imagem a sua persona, utilize o site https://thisperson
 ## Personas
 
 ### Wellington, 47 anos - Colecionador
- 
 - Idade:47 anos
 - Profissão: Vendedor
 - Interesses: DVDs de filmes clássicos, Musicais, e Documentários
@@ -17,7 +16,6 @@ Caso deseje atribuir uma imagem a sua persona, utilize o site https://thisperson
 - Necessidade: Um sistema simples e intuitivo para consultar sua coleção, ajudando organizar, catalogar e quantifica-la. 
 
 ### Anderson, 40 anos - Estudioso
- 
 - Idade:40 anos
 - Profissão: Professor Universitário 
 - Interesses: Livros Antigos, Mapas e Réplicas de Documentos históricos.
@@ -42,163 +40,172 @@ Caso deseje atribuir uma imagem a sua persona, utilize o site https://thisperson
 ### André
 Idade: 42 anos
 Cargo: Professor universitário de Literatura
-
 1. Hábitos:
     - Organiza seu tempo meticulosamente em agenda digital
     - Lê em média 3 livros por mês
     - Visita livrarias físicas semanalmente
     - Mantém anotações detalhadas sobre suas leituras
     - Empresta livros para amigos e alunos frequentemente
-
 1. Frustrações:
     - Perde o controle de quais livros emprestou e para quem
     - Compra títulos duplicados por esquecimento
     - Dificuldade em catalogar livros raros ou importados
     - Falta de um sistema eficiente para organizar anotações por tema
-
 1. Desafios:
     - Gerenciar uma coleção de mais de 2.000 livros físicos
     - Conectar suas notas de leitura ao contexto acadêmico
     - Equilibrar aquisições por interesse pessoal e necessidade profissional
     - Preservar livros raros e de edições especiais
-
 1. Crenças:
     - Acredita que livros físicos têm valor cultural insubstituível
     - Valoriza o conhecimento como maior patrimônio pessoal
     - Considera a organização um reflexo de clareza mental
     - Pensa que compartilhar livros fortalece vínculos sociais
-
 1. Hobbies:
     - Crítica literária amadora em blog pessoal
     - Fotografia de arquitetura
     - Participação em clubes de leitura
     - Viagens culturais para cidades históricas
-
 1. Estilo de vida:
     - Vida moderadamente agitada entre aulas e pesquisas
     - Gosta de momentos calmos para leitura no fim do dia
     - Valoriza ambientes organizados e estéticos
     - Prioriza qualidade sobre quantidade
-
 1. Hábitos de compra:
     - Planeja compras grandes em eventos literários anuais
     - Investe considerável parte da renda em livros raros
     - Prefere edições especiais de obras clássicas
     - Mais impulsivo com lançamentos de autores favoritos
-
 1. Mídias preferidas:
     - Podcasts sobre literatura e história
     - Jornais e revistas acadêmicas
     - Newsletters especializadas em crítica literária
     - Documentários culturais
-
 1. Influenciadores:
     - Críticos literários renomados
     - Colegas acadêmicos
     - Autores contemporâneos que acompanha
     - Comunidades online de colecionadores
-
 1. Tecnologias utilizadas:
     - Tablet para leituras digitais complementares
     - Apps de notas e produtividade
     - Sistemas de gestão bibliográfica acadêmica
     - Câmera DSLR para documentar coleção
-
 1. Fontes de informação:
     - Bases de dados acadêmicas
     - Catálogos de casas de leilão literário
     - Grupos de colecionadores no WhatsApp
     - Eventos universitários e feiras literárias
-
 1. Critérios de decisão na compra:
   - Relevância para pesquisa acadêmica
   - Raridade e estado de conservação
   - Valor cultural e histórico da obra
   - Completude de coleções temáticas
-
 #### Momento na jornada de compra:
 * Avaliação - busca uma solução específica para organizar seu acervo crescente, já tendo identificado a necessidade e realizado pesquisas iniciais.
 
 ### Lilian
 Idade: 35 anos
 Cargo: Arquiteta e designer de interiores
-
 1. Hábitos:
     - Fotografa todos os projetos concluídos
     - Coleciona revistas de design e arquitetura
     - Mantém um moodboard físico e digital
     - Visita exposições de arte mensalmente
     - Cataloga manualmente objetos de design que adquire
-
 1. Frustrações:
     - Dificuldade em encontrar referências visuais específicas rapidamente
     - Livros e catálogos de arte ocupando espaço excessivo no escritório
     - Desorganização de amostras de materiais e tecidos
     - Perda de tempo procurando inspirações salvas em diferentes dispositivos
-
-3. Desafios:
+1. Desafios:
     - Gerenciar um acervo visual que mistura físico e digital
     - Organizar por projeto e por estilo sem redundâncias
     - Acessar seu acervo remotamente quando está com clientes
     - Manter atualizado o inventário de peças de design colecionáveis
-
-4 - Crenças:
+1. Crenças:
     - Acredita que a estética influencia diretamente o bem-estar
     - Valoriza a história e contexto de peças de design
     - Considera a organização visual essencial para a criatividade
     - Pensa que objetos de design são investimentos culturais
-
-5 - Hobbies:
+1. Hobbies:
     - Cerâmica artesanal
     - Jardinagem urbana
     - Fotografia de arquitetura
     - Viagens focadas em museus de design
-
-6 - Estilo de vida:
+1. Estilo de vida:
     - Trabalha em home office com visitas frequentes a clientes
     - Aprecia ambientes minimalistas e funcionais
     - Divide tempo entre projetos comerciais e residenciais
     - Valoriza experiências sensoriais e estéticas
-
-7 - Hábitos de compra:
+1. Hábitos de compra:
     - Pesquisa extensivamente antes de adquirir peças importantes
     - Investe em itens de design autênticos em vez de réplicas
     - Compra livros de arte e design impulsivamente
     - Adquire regularmente materiais para experimentos criativos
-
-8 - Mídias preferidas:
+1. Mídias preferidas:
     - Instagram e Pinterest como fontes primárias de inspiração
     - Revistas especializadas em design internacional
     - Vídeos de tour em residências e galerias
     - Podcasts sobre tendências em arquitetura
-
-9 - Influenciadores:
+1. Influenciadores:
     - Designers consagrados internacionalmente
     - Curadores de museus de design
     - Perfis de arquitetura sustentável
     - Clientes com projetos desafiadores
-
-10 - Tecnologias utilizadas:
+1. Tecnologias utilizadas:
     - iPad Pro com Apple Pencil para sketches
     - Software de modelagem 3D
     - Apps de organização visual e moodboards
     - Câmera mirrorless de alta resolução
-
-11 - Fontes de informação:
+1. Fontes de informação:
     - Feiras internacionais de design
     - Portfólios online de outros profissionais
     - Catálogos digitais de fabricantes exclusivos
     - Showrooms de design contemporâneo
-
-12 - Critérios de decisão na compra:
+1. Critérios de decisão na compra:
     - Funcionalidade aliada à estética
     - Originalidade e exclusividade
     - Durabilidade e qualidade dos materiais
     - Alinhamento com filosofia de design sustentável
-
 #### Momento na jornada de compra:
 -  Consideração - já reconheceu a necessidade de um sistema para gerenciar seu acervo visual e está ativamente comparando soluções disponíveis no mercado.
 
+
+### Lucas -  Colecionador
+#### Descrição Geral:
+- Idade: 32 anos
+- Profissão: Designer gráfico
+- Localização: São Paulo, Brasil
+- Formação/Educação: Graduação em Design
+#### Contexto Pessoal:
+Motivações: Lucas adora colecionar action figures e miniaturas. Ele tem orgulho de sua coleção e gosta de mantê-la organizada para mostrar aos amigos e familiares.
+
+#### Desafios:
+À medida que sua coleção cresce, ele enfrenta dificuldades para controlar o que já possui, itens que deseja adquirir e o valor investido.
+
+Tecnologias que utiliza: Smartphone e laptop (Windows), além de aplicativos como Evernote e Google Drive para organizar informações.
+
+#### Necessidades e Objetivos:
+- Manter um registro detalhado dos itens colecionáveis (nome, valor, estado de conservação, data de aquisição).
+- Monitorar o orçamento gasto com a coleção.
+- Facilitar a busca por itens específicos e evitar compras duplicadas.
+
+#### Comportamento e Hábitos:
+- Frequência de uso do software: Semanalmente, com atualizações após novas aquisições.
+- Preferências de design: Interface intuitiva, visual atraente com foco em imagens dos itens.
+
+#### Estilo de interação:
+Busca eficiência e agilidade no registro e consulta de dados.
+
+#### Cenário de Uso:
+Situação típica em que o software é usado: Lucas visita uma feira de colecionáveis e usa o aplicativo para verificar se já possui determinado item antes de comprá-lo.
+
+#### Expectativas:
+Registro fácil e rápido, categorização clara e possibilidade de exportar dados para PDF ou Excel.
+
+#### Citação Representativa:
+"Minha coleção é meu tesouro, e quero mantê-la organizada para que ninguém duvide do quão incrível ela é!"
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
