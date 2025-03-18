@@ -8,38 +8,30 @@ Caso deseje atribuir uma imagem a sua persona, utilize o site https://thisperson
 
 ## Personas
 
-Persona 4 Wellington , 47 anos - O Colecionador
+### Wellington, 47 anos - Colecionador
  
-• Idade:47 anos
- 
-• Profissão: Vendedor
- 
-• Interesses: DVDs de filmes clássicos, Musicais, e Documentários
- 
-• Desafios: sabe que tem, porém, não sabe onde, ou se está emprestado.
- 
-• Necessidade: Um sistema simples e intuitivo para consultar sua coleção, ajudando organizar, catalogar e quantifica-la. 
+- Idade:47 anos
+- Profissão: Vendedor
+- Interesses: DVDs de filmes clássicos, Musicais, e Documentários
+- Desafios: sabe que tem, porém, não sabe onde, ou se está emprestado.
+- Necessidade: Um sistema simples e intuitivo para consultar sua coleção, ajudando organizar, catalogar e quantifica-la. 
 
-Persona 5: Anderson, 40 anos - O Estudioso
+### Anderson, 40 anos - Estudioso
  
-• Idade:40 anos
- 
-• Profissão: Professor Universitário 
- 
-• Interesses: Livros Antigos, Mapas e Réplicas de Documentos históricos.
- 
-• Desafios: dificuldade de achar um conteúdo específico rapidamente para consulta ou demonstração em suas aulas. 
- 
-• Necessidade: Um sistema simples e intuitivo para organizar seu acervo, ajudando a classificar e facilitar a consulta na hora necessária. 
+- Idade:40 anos
+- Profissão: Professor Universitário 
+- Interesses: Livros Antigos, Mapas e Réplicas de Documentos históricos.
+- Desafios: dificuldade de achar um conteúdo específico rapidamente para consulta ou demonstração em suas aulas. 
+- Necessidade: Um sistema simples e intuitivo para organizar seu acervo, ajudando a classificar e facilitar a consulta na hora necessária. 
 
-Persona 6 : Ana Silva - A Colecionadora Detalhista
+### Ana Silva - Colecionadora Detalhista
  - Idade: 35 anos
  - Profissão: Arquiteta
  - Interesses: Miniaturas de carros antigos, história automotiva, comunidades de colecionadores.
  - Desafios: Organizar e catalogar informações detalhadas de sua coleção, acompanhar lançamentos e conectar-se com outros entusiastas.
  - Necessidade: Um sistema intuitivo com campos personalizáveis para registrar cada miniatura, permitindo busca avançada e interação com outros colecionadores.
 
-Persona 7: Laura Mendes - A Fã de Cultura Pop
+###  Laura Mendes - Fã de Cultura Pop
  - Idade: 28 anos
  - Profissão: Designer Gráfica
  - Interesses: Quadrinhos, mangás, action figures, filmes e séries de fantasia e ficção científica.
@@ -47,165 +39,165 @@ Persona 7: Laura Mendes - A Fã de Cultura Pop
  - Necessidade: Um sistema com catálogo visual atraente, filtros por universo e personagem, e alertas para lançamentos e itens raros.
 
 
-Persona 8: André
+### André
 Idade: 42 anos
 Cargo: Professor universitário de Literatura
 
-1 - Hábitos:
-1.1 Organiza seu tempo meticulosamente em agenda digital
-1.2 Lê em média 3 livros por mês
-1.3 Visita livrarias físicas semanalmente
-1.4 Mantém anotações detalhadas sobre suas leituras
-1.5 Empresta livros para amigos e alunos frequentemente
+1. Hábitos:
+    - Organiza seu tempo meticulosamente em agenda digital
+    - Lê em média 3 livros por mês
+    - Visita livrarias físicas semanalmente
+    - Mantém anotações detalhadas sobre suas leituras
+    - Empresta livros para amigos e alunos frequentemente
 
-2 - Frustrações:
-2.1 Perde o controle de quais livros emprestou e para quem
-2.2 Compra títulos duplicados por esquecimento
-2.3 Dificuldade em catalogar livros raros ou importados
-2.4 Falta de um sistema eficiente para organizar anotações por tema
+1. Frustrações:
+    - Perde o controle de quais livros emprestou e para quem
+    - Compra títulos duplicados por esquecimento
+    - Dificuldade em catalogar livros raros ou importados
+    - Falta de um sistema eficiente para organizar anotações por tema
 
-3 - Desafios:
-3.1 - Gerenciar uma coleção de mais de 2.000 livros físicos
-3.2 Conectar suas notas de leitura ao contexto acadêmico
-3.3 Equilibrar aquisições por interesse pessoal e necessidade profissional
-3.4 Preservar livros raros e de edições especiais
+1. Desafios:
+    - Gerenciar uma coleção de mais de 2.000 livros físicos
+    - Conectar suas notas de leitura ao contexto acadêmico
+    - Equilibrar aquisições por interesse pessoal e necessidade profissional
+    - Preservar livros raros e de edições especiais
 
-4 - Crenças:
-4.1 Acredita que livros físicos têm valor cultural insubstituível
-4.2 Valoriza o conhecimento como maior patrimônio pessoal
-4.3 Considera a organização um reflexo de clareza mental
-4.4 Pensa que compartilhar livros fortalece vínculos sociais
+1. Crenças:
+    - Acredita que livros físicos têm valor cultural insubstituível
+    - Valoriza o conhecimento como maior patrimônio pessoal
+    - Considera a organização um reflexo de clareza mental
+    - Pensa que compartilhar livros fortalece vínculos sociais
 
-5 - Hobbies:
-5.1 Crítica literária amadora em blog pessoal
-5.2 Fotografia de arquitetura
-5.3 Participação em clubes de leitura
-5.4 Viagens culturais para cidades históricas
+1. Hobbies:
+    - Crítica literária amadora em blog pessoal
+    - Fotografia de arquitetura
+    - Participação em clubes de leitura
+    - Viagens culturais para cidades históricas
 
-6 - Estilo de vida:
-6.1 Vida moderadamente agitada entre aulas e pesquisas
-6.2 Gosta de momentos calmos para leitura no fim do dia
-6.3 Valoriza ambientes organizados e estéticos
-6.4 Prioriza qualidade sobre quantidade
+1. Estilo de vida:
+    - Vida moderadamente agitada entre aulas e pesquisas
+    - Gosta de momentos calmos para leitura no fim do dia
+    - Valoriza ambientes organizados e estéticos
+    - Prioriza qualidade sobre quantidade
 
-7 - Hábitos de compra:
-7.1 Planeja compras grandes em eventos literários anuais
-7.2 Investe considerável parte da renda em livros raros
-7.3 Prefere edições especiais de obras clássicas
-7.4 Mais impulsivo com lançamentos de autores favoritos
+1. Hábitos de compra:
+    - Planeja compras grandes em eventos literários anuais
+    - Investe considerável parte da renda em livros raros
+    - Prefere edições especiais de obras clássicas
+    - Mais impulsivo com lançamentos de autores favoritos
 
-8 - Mídias preferidas:
-8.1 Podcasts sobre literatura e história
-8.2 Jornais e revistas acadêmicas
-8.3 Newsletters especializadas em crítica literária
-8.4 Documentários culturais
+1. Mídias preferidas:
+    - Podcasts sobre literatura e história
+    - Jornais e revistas acadêmicas
+    - Newsletters especializadas em crítica literária
+    - Documentários culturais
 
-9 - Influenciadores:
-9.1 Críticos literários renomados
-9.2 Colegas acadêmicos
-9.3 Autores contemporâneos que acompanha
-9.4 Comunidades online de colecionadores
+1. Influenciadores:
+    - Críticos literários renomados
+    - Colegas acadêmicos
+    - Autores contemporâneos que acompanha
+    - Comunidades online de colecionadores
 
-10 - Tecnologias utilizadas:
-10.1 Tablet para leituras digitais complementares
-10.2 Apps de notas e produtividade
-10.3 Sistemas de gestão bibliográfica acadêmica
-10.4 Câmera DSLR para documentar coleção
+1. Tecnologias utilizadas:
+    - Tablet para leituras digitais complementares
+    - Apps de notas e produtividade
+    - Sistemas de gestão bibliográfica acadêmica
+    - Câmera DSLR para documentar coleção
 
-11 - Fontes de informação:
-11.1 Bases de dados acadêmicas
-11.2 Catálogos de casas de leilão literário
-11.3 Grupos de colecionadores no WhatsApp
-11.4 Eventos universitários e feiras literárias
+1. Fontes de informação:
+    - Bases de dados acadêmicas
+    - Catálogos de casas de leilão literário
+    - Grupos de colecionadores no WhatsApp
+    - Eventos universitários e feiras literárias
 
-12 - Critérios de decisão na compra:
-12.1 Relevância para pesquisa acadêmica
-12.2 Raridade e estado de conservação
-12.3 Valor cultural e histórico da obra
-12.4 Completude de coleções temáticas
+1. Critérios de decisão na compra:
+  - Relevância para pesquisa acadêmica
+  - Raridade e estado de conservação
+  - Valor cultural e histórico da obra
+  - Completude de coleções temáticas
 
->>> Momento na jornada de compra:
+#### Momento na jornada de compra:
 * Avaliação - busca uma solução específica para organizar seu acervo crescente, já tendo identificado a necessidade e realizado pesquisas iniciais.
 
-Persona 9: Lilian
+### Lilian
 Idade: 35 anos
 Cargo: Arquiteta e designer de interiores
 
-1 - Hábitos:
-1.1 Fotografa todos os projetos concluídos
-1.2 Coleciona revistas de design e arquitetura
-1.3 Mantém um moodboard físico e digital
-1.4 Visita exposições de arte mensalmente
-1.5 Cataloga manualmente objetos de design que adquire
+1. Hábitos:
+    - Fotografa todos os projetos concluídos
+    - Coleciona revistas de design e arquitetura
+    - Mantém um moodboard físico e digital
+    - Visita exposições de arte mensalmente
+    - Cataloga manualmente objetos de design que adquire
 
-2 - Frustrações:
-2.1 Dificuldade em encontrar referências visuais específicas rapidamente
-2.2 Livros e catálogos de arte ocupando espaço excessivo no escritório
-2.3 Desorganização de amostras de materiais e tecidos
-2.4 Perda de tempo procurando inspirações salvas em diferentes dispositivos
+1. Frustrações:
+    - Dificuldade em encontrar referências visuais específicas rapidamente
+    - Livros e catálogos de arte ocupando espaço excessivo no escritório
+    - Desorganização de amostras de materiais e tecidos
+    - Perda de tempo procurando inspirações salvas em diferentes dispositivos
 
-3 - Desafios:
-3.1 Gerenciar um acervo visual que mistura físico e digital
-3.2 Organizar por projeto e por estilo sem redundâncias
-3.3 Acessar seu acervo remotamente quando está com clientes
-3.4 Manter atualizado o inventário de peças de design colecionáveis
+3. Desafios:
+    - Gerenciar um acervo visual que mistura físico e digital
+    - Organizar por projeto e por estilo sem redundâncias
+    - Acessar seu acervo remotamente quando está com clientes
+    - Manter atualizado o inventário de peças de design colecionáveis
 
 4 - Crenças:
-4.1 Acredita que a estética influencia diretamente o bem-estar
-4.2 Valoriza a história e contexto de peças de design
-4.3 Considera a organização visual essencial para a criatividade
-4.4 Pensa que objetos de design são investimentos culturais
+    - Acredita que a estética influencia diretamente o bem-estar
+    - Valoriza a história e contexto de peças de design
+    - Considera a organização visual essencial para a criatividade
+    - Pensa que objetos de design são investimentos culturais
 
 5 - Hobbies:
-5.1 Cerâmica artesanal
-5.2 Jardinagem urbana
-5.3 Fotografia de arquitetura
-5.4 Viagens focadas em museus de design
+    - Cerâmica artesanal
+    - Jardinagem urbana
+    - Fotografia de arquitetura
+    - Viagens focadas em museus de design
 
 6 - Estilo de vida:
-6.1 Trabalha em home office com visitas frequentes a clientes
-6.2 Aprecia ambientes minimalistas e funcionais
-6.3 Divide tempo entre projetos comerciais e residenciais
-6.4 Valoriza experiências sensoriais e estéticas
+    - Trabalha em home office com visitas frequentes a clientes
+    - Aprecia ambientes minimalistas e funcionais
+    - Divide tempo entre projetos comerciais e residenciais
+    - Valoriza experiências sensoriais e estéticas
 
 7 - Hábitos de compra:
-7.1 Pesquisa extensivamente antes de adquirir peças importantes
-7.2 Investe em itens de design autênticos em vez de réplicas
-7.3 Compra livros de arte e design impulsivamente
-7.4 Adquire regularmente materiais para experimentos criativos
+    - Pesquisa extensivamente antes de adquirir peças importantes
+    - Investe em itens de design autênticos em vez de réplicas
+    - Compra livros de arte e design impulsivamente
+    - Adquire regularmente materiais para experimentos criativos
 
 8 - Mídias preferidas:
-8.1 Instagram e Pinterest como fontes primárias de inspiração
-8.2 Revistas especializadas em design internacional
-8.3 Vídeos de tour em residências e galerias
-8.4 Podcasts sobre tendências em arquitetura
+    - Instagram e Pinterest como fontes primárias de inspiração
+    - Revistas especializadas em design internacional
+    - Vídeos de tour em residências e galerias
+    - Podcasts sobre tendências em arquitetura
 
 9 - Influenciadores:
-9.1 Designers consagrados internacionalmente
-9.2 Curadores de museus de design
-9.3 Perfis de arquitetura sustentável
-9.4 Clientes com projetos desafiadores
+    - Designers consagrados internacionalmente
+    - Curadores de museus de design
+    - Perfis de arquitetura sustentável
+    - Clientes com projetos desafiadores
 
 10 - Tecnologias utilizadas:
-10.1 iPad Pro com Apple Pencil para sketches
-10.2 Software de modelagem 3D
-10.3 Apps de organização visual e moodboards
-10.4 Câmera mirrorless de alta resolução
+    - iPad Pro com Apple Pencil para sketches
+    - Software de modelagem 3D
+    - Apps de organização visual e moodboards
+    - Câmera mirrorless de alta resolução
 
 11 - Fontes de informação:
-11.1 Feiras internacionais de design
-11.2 Portfólios online de outros profissionais
-11.3 Catálogos digitais de fabricantes exclusivos
-11.4 Showrooms de design contemporâneo
+    - Feiras internacionais de design
+    - Portfólios online de outros profissionais
+    - Catálogos digitais de fabricantes exclusivos
+    - Showrooms de design contemporâneo
 
 12 - Critérios de decisão na compra:
-12.1 Funcionalidade aliada à estética
-12.2 Originalidade e exclusividade
-12.3 Durabilidade e qualidade dos materiais
-12.4 Alinhamento com filosofia de design sustentável
+    - Funcionalidade aliada à estética
+    - Originalidade e exclusividade
+    - Durabilidade e qualidade dos materiais
+    - Alinhamento com filosofia de design sustentável
 
->>> Momento na jornada de compra:
-* Consideração - já reconheceu a necessidade de um sistema para gerenciar seu acervo visual e está ativamente comparando soluções disponíveis no mercado.
+#### Momento na jornada de compra:
+-  Consideração - já reconheceu a necessidade de um sistema para gerenciar seu acervo visual e está ativamente comparando soluções disponíveis no mercado.
 
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
@@ -230,8 +222,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Usuário do sistema  | Quero consultar e listar os itens da minha coleção | Verificar a existencia de um item nela|
+|Usuário do sistema  | Quero ver detalhes de um item da minha coleção | Verificar suas informações e saber sua localização|
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
