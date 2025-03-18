@@ -46,6 +46,10 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 
 ## Histórias de Usuários
 
+Eu Wellington , Colecionador, quero  organizar, catalogar e quantificar meus DVD’S para minha locadora pessoal.  Quero de forma simples, para evitar perdas, empréstimos eternos e duplicações. 
+
+Eu Anderson, Estudioso, quero  organizar, e achar os conteúdos com rapidez para minhas aulas, para evitar perda de tempo. 
+
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
