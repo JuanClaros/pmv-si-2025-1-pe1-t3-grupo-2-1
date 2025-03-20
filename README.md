@@ -14,7 +14,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Jeferson Alves Almeida 
 * Rafael Gomes Nascimento
 * Lucas Rodrigues Rosa
-* Nome completo do aluno 4
+* Juan Dos Santos Monteiro Claros
 * Nome completo do aluno 5
 
 
