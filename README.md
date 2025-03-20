@@ -6,20 +6,24 @@
 
 `SEMESTRE: 1º`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Pessoas de todas as idades acumulam acervos pessoais em casa ou no trabalho, seja uma coleção de bonecos de ação, livros, cards colecionáveis, DVDs ou qualquer outro item em grande quantidade. Com o tempo, organizar e gerenciar esses acervos pode se tornar um desafio, dificultando o controle do que já foi adquirido ou emprestado.
+
+Nosso projeto surge para resolver essa necessidade de forma acessível, simples e eficaz, utilizando a tecnologia como aliada na organização. Com nossa solução, será possível registrar e catalogar itens com facilidade, além de contar com uma área específica para controlar empréstimos, permitindo anotar datas e destinatários.
+
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+* Ezequiel Jonatas Andrade Rocha
+* Jeferson Alves Almeida 
+* Rafael Gomes Nascimento
+* Lucas Rodrigues Rosa
+* Frederico Prado Corrêa
+* Juan Dos Santos Monteiro Claros
 
 
 ## Orientador
 
-* Nome completo do professor 1
+* Hayala Nepomuceno Curto
 
 # Planejamento
 
